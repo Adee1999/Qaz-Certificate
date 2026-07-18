@@ -1,0 +1,6 @@
+{
+  "name": "QazCertificate",
+  "description": "Кәсіби сертификаттар мен дипломдарды онлайн жасау және жүктеу платформасы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
